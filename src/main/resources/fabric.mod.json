@@ -1,0 +1,12 @@
+{
+    "schemaVersion": 1,
+    "id": "cdmbmll",
+    "version": "${version}",
+    "name": "fabric-client-disable-command-block-command-length-limit",
+    "authors": [
+        "extclp"
+    ],
+    "mixins": [
+        "cdmbmll.mixins.json"
+    ]
+}

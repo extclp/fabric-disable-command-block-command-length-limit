@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.extclp.fabric.cdmbmll.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "MixinAbstractCommandBlockScreen"
+  ],
+  "mixins": [
+    "MixinUpdateCommandBlockC2SPacket"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
