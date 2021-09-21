@@ -18,7 +18,7 @@ configure<JavaPluginExtension> {
 
 tasks.processResources {
     inputs.property("version", project.version)
-    filesMatching("fabricmod.json") {
+    filesMatching("fabric.mod.json") {
         expand("version" to project.version)
     }
 }

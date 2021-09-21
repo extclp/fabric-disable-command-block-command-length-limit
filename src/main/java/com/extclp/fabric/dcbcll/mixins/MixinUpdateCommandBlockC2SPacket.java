@@ -1,4 +1,4 @@
-package com.extclp.fabric.cdmbmll.mixins;
+package com.extclp.fabric.dcbcll.mixins;
 
 import net.minecraft.network.PacketByteBuf;
 import net.minecraft.network.packet.c2s.play.UpdateCommandBlockC2SPacket;

@@ -1,4 +1,4 @@
-package com.extclp.fabric.cdmbmll.mixins;
+package com.extclp.fabric.dcbcll.mixins;
 
 import net.minecraft.client.gui.screen.ingame.AbstractCommandBlockScreen;
 import org.spongepowered.asm.mixin.Mixin;
